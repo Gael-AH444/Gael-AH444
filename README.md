@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2b1a5e,100:512BD4&height=200&section=header&text=Gael%20Alejo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20Jr%20%7C%20.NET%20%26%20C%23&descSize=18&descColor=c9b8ff&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer+Jr+%C2%B7+.NET+%2F+C%23;APIs+REST+%C2%B7+Apps+de+escritorio+%C2%B7+SQL+Server;Construyendo%3A+ConsensoClima+(async%2C+DI%2C+LINQ);Primero+que+funcione.+Despu%C3%A9s%2C+que+sea+mantenible." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%C2%B7+.NET+%2F+C%23;APIs+REST+%C2%B7+%C2%B7+SQL+Server;Primero+que+funcione.+Despu%C3%A9s%2C+que+sea+mantenible." alt="Typing SVG" /></a>
 
 </div>
 
@@ -18,14 +18,14 @@ public record Developer
     public string   Location       => "Querétaro, México 🇲🇽";
     public string[] Focus          => ["APIs REST", "Desktop (WPF · MVVM)", "SQL Server / MySQL"];
     public string   CurrentProject => "ConsensoClima — clima multi-fuente con señal de confianza";
-    public string[] Learning       => ["async/await y concurrencia", "Inyección de dependencias", "xUnit + Moq", "EF Core"];
+    public string[] Learning       => ["async/await y concurrencia", "Inyección de dependencias", "xUnit", "EF Core"];
     public string   Mindset        => "Primero que funcione. Después, que sea mantenible.";
 }
 ```
 
-Egresado de Ingeniería en Sistemas Computacionales (UPQ). He desarrollado aplicaciones de escritorio en **.NET** con **WPF** y **Windows Forms** bajo el patrón **MVVM**, APIs REST y bases de datos relacionales con **T-SQL**, usando **Dapper** y **Entity Framework** como capa de acceso a datos. Antes de programar de tiempo completo configuré redes con equipos Cisco y Huawei, así que me gusta entender el sistema completo: desde la red hasta la consulta SQL.
+Egresado de Ingeniería en Sistemas Computacionales (UPQ). He desarrollado aplicaciones de escritorio en **.NET** con **WPF** y **Windows Forms** bajo el patrón **MVVM**, APIs REST, App Webs y bases de datos relacionales con **SQL Server**, usando **Dapper** y **Entity Framework** como capa de acceso a datos y para la experiencia UI **Angular**. Antes de programar de tiempo completo configuré redes con equipos Cisco y Huawei, así que me gusta entender el sistema completo: desde la red hasta la consulta SQL.
 
-Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven problemas reales, no solo CRUDs: concurrencia, inyección de dependencias, diseño por interfaces y pruebas automatizadas.
+Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven problemas reales, no solo CRUDs: concurrencia, inyección de dependencias, diseño por interfaces, pruebas, y patrones de diseño.
 
 ---
 
@@ -36,13 +36,6 @@ Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven pro
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Desktop**
-
-![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-2D2D2D?style=for-the-badge&logoColor=white)
 
 **Datos**
 
@@ -54,25 +47,22 @@ Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven pro
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e99f7?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-e51530?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Herramientas & Redes**
+**Herramientas & Nube**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-158be5?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-e7860c?style=for-the-badge&logoColor=white)
 
 **Aprendiendo ahora**
 
-![async/await](https://img.shields.io/badge/async%2Fawait-512BD4?style=flat-square)
-![DI](https://img.shields.io/badge/Dependency_Injection-512BD4?style=flat-square)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
-![Moq](https://img.shields.io/badge/Moq-512BD4?style=flat-square)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-e7d70c?style=for-the-badge&logo=python&logoColor=black)
+![IA Agentica/Redes GAN](https://img.shields.io/badge/IA%20Agentica%20&%20Redes%20GAN-512BD4?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-512BD4?style=flat-square)
 
 ---
 
