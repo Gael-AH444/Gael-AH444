@@ -60,7 +60,7 @@ Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven pro
 
 **Aprendiendo ahora**
 
-![Python](https://img.shields.io/badge/Python-e7d70c?style=for-the-badge&logo=python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-512BD4?style=flat-square)
 ![IA Agentica/Redes GAN](https://img.shields.io/badge/IA%20Agentica%20&%20Redes%20GAN-512BD4?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-512BD4?style=flat-square)
 
