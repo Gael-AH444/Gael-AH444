@@ -80,7 +80,7 @@ Hoy estoy profundizando en la programacion con C# y Python creando proyectos que
 - **Resiliencia**: timeout con `CancellationToken` y manejo de fallos por fuente, sin tumbar la corrida.
 - **Generic Host** (DI + configuración + logging + `IHttpClientFactory`) y **tests** con fuentes falsas (xUnit + Moq).
 
-📂 **[Ver el repositorio →](https://github.com/Gael-AH444/ConsensoClima)**
+📂 **[Ver el repositorio →](https://github.com/Gael-AH444/ConsensoClima_API)**
 
 ---
 
