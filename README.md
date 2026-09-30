@@ -16,22 +16,22 @@ public record Developer
     public string   Name           => "Gael Alejo";
     public string   Role           => "Fullstack Developer Jr · .NET / C#";
     public string   Location       => "Querétaro, México 🇲🇽";
-    public string[] Focus          => ["APIs REST", "Desktop (WPF · MVVM)", "SQL Server / MySQL"];
+    public string[] Focus          => ["APIs REST", "Desktop", "SQL Server / EF Core", "Web Apps"];
     public string   CurrentProject => "ConsensoClima — clima multi-fuente con señal de confianza";
     public string[] Learning       => ["async/await y concurrencia", "Inyección de dependencias", "xUnit", "EF Core"];
     public string   Mindset        => "Primero que funcione. Después, que sea mantenible.";
 }
 ```
 
-Egresado de Ingeniería en Sistemas Computacionales (UPQ). He desarrollado aplicaciones de escritorio en **.NET** con **WPF** y **Windows Forms** bajo el patrón **MVVM**, APIs REST, App Webs y bases de datos relacionales con **SQL Server**, usando **Dapper** y **Entity Framework** como capa de acceso a datos y para la experiencia UI **Angular**. Antes de programar de tiempo completo configuré redes con equipos Cisco y Huawei, así que me gusta entender el sistema completo: desde la red hasta la consulta SQL.
+Egresado de Ingeniería en Sistemas Computacionales (UPQ). He desarrollado aplicaciones de escritorio en **.NET** con **WPF** y **Windows Forms** bajo el patrón **MVVM**, APIs REST, App Webs y bases de datos relacionales con **SQL Server**. Usando **Dapper** y **EF Core** como capa de acceso a datos, y para la experiencia UI **Angular**. Antes de programar de tiempo completo configuré redes con equipos Cisco y Huawei, así que me gusta entender el sistema completo: desde la red hasta la consulta SQL.
 
-Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven problemas reales, no solo CRUDs: concurrencia, inyección de dependencias, diseño por interfaces, pruebas, y patrones de diseño.
+Hoy estoy profundizando en la programacion con C# y Python creando proyectos que resuelven problemas reales, no solo CRUDs: concurrencia, inyección de dependencias, diseño por interfaces, pruebas, y patrones de diseño. Ademas en la IA, no solo como herramienta de trabajo, sino en el Deep Learnig, IA Agentica y Redes Generativas. 
 
 ---
 
 ## 🧱 Stack
 
-**Backend & .NET**
+**Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -100,23 +100,13 @@ Hoy estoy profundizando en los fundamentos de C# con proyectos que resuelven pro
 
 | | Rol / Formación | Periodo | Enfoque |
 | --- | --- | --- | --- |
+| 💼 | **Desarrollador de sofware** | 2025 — Actualidad | Web apps con .NET + Angular · APIs con JS y TS · Desarrollo y personalizacion de modulos en ERPs (Netsuite & Dynamics F&O 365)|
 | 💼 | **Programador Jr** | 2023 — 2024 | Apps de escritorio .NET (WPF, WinForms) con MVVM · Dapper y EF · diseño de BD con T-SQL · documentación técnica (UML, casos de uso) |
 | 🌐 | **IP Intern** | 2022 — 2023 | Configuración de routers y switches Cisco/Huawei · protocolos capa 2 · migración de equipos y soporte remoto |
 | 🎓 | **Ing. en Sistemas Computacionales** | 2019 — 2023 | Universidad Politécnica de Querétaro |
 
 ---
 
-## 🗺️ Roadmap de aprendizaje
-
-| | Tema | Cómo lo estoy aprendiendo | Estado |
-| --- | --- | --- | --- |
-| 🟣 | POO, interfaces y polimorfismo | ConsensoClima | 🔄 En curso |
-| 🟣 | `async/await` y concurrencia | ConsensoClima | 🔄 En curso |
-| 🟣 | Inyección de dependencias y Generic Host | ConsensoClima | 🔄 En curso |
-| 🟣 | Testing con xUnit + Moq | Hilo transversal en todos los proyectos | 🔄 En curso |
-| 🔵 | EF Core / Dapper a fondo | Proyecto 2 | 📍 Siguiente |
-
----
 
 ## 📊 Stats
 
