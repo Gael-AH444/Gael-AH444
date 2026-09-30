@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2b1a5e,100:512BD4&height=200&section=header&text=Gael%20Alejo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer.NET%20%26%20C%23&descSize=18&descColor=c9b8ff&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="/header.svg" alt="Gael Alejo - Fullstack Developer | .NET & C#" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%C2%B7+.NET+%2F+C%23;APIs+REST+%C2%B7+SQL+Server;Primero+que+funcione.+Despu%C3%A9s%2C+que+sea+mantenible." alt="Typing SVG" /></a>
 
