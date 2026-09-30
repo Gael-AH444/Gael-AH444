@@ -134,7 +134,7 @@ Hoy estoy profundizando en la programacion con C# y Python creando proyectos que
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:2b1a5e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="/footer.svg" alt="Gael Alejo - Fullstack Developer | .NET & C#" width="100%"/>
 
 <div align="center">
 
