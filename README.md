@@ -66,7 +66,7 @@ Hoy estoy profundizando en la programacion con C# y Python creando proyectos que
 
 ---
 
-## 🌦️ Proyecto destacado: ConsensoClima `🚧 en construcción`
+## 🌦️ Proyecto destacado: ConsensoClima v1 finalizada ✅
 
 > El clima de una sola API es un punto único de falla. **ConsensoClima** consulta varias fuentes al mismo tiempo, consolida cada ciudad en una lectura única y entrega una **señal de confianza** (qué tanto coinciden las fuentes). Si una fuente se cae o tarda, la corrida sigue y el reporte lo indica.
 
